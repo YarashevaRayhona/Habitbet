@@ -1,0 +1,6 @@
+{
+  "name": "HabitBet",
+  "description": "Beat Procrastination. Win Money. Social habit tracker with competitive betting against friends, AI proof verification, and anti-snooze smart alarm.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

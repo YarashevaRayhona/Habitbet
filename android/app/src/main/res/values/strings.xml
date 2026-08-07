@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HabitBet</string>
+    <string name="title_activity_main">HabitBet</string>
+    <string name="package_name">com.habitbet.app</string>
+    <string name="custom_url_scheme">com.habitbet.app</string>
+</resources>

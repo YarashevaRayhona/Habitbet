@@ -1,0 +1,9 @@
+{
+  "appId": "com.habitbet.app",
+  "appName": "HabitBet",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
